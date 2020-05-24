@@ -9,5 +9,7 @@ custom pytorch model
 
 # model evaluation metrics
 Recall:     0.924
+
 Precision:  0.901
+
 Accuracy:   0.907
